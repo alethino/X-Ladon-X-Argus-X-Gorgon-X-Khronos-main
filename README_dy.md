@@ -88,4 +88,7 @@
 <img src="./data/dy_userinfo.gif">
 
 
-# [联系交流](https://t.me/tiktokpeppa)
+
+### contact me
+## Contact Telegram @Neo_Galaxy
+https://t.me/Neo_Galaxy
