@@ -76,4 +76,4 @@ douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register 
 
 
 ### contact me
-# [Contact Telegram](https://t.me/Neo_Galaxy)
+# [Contact Telegram](https://t.me/alethino)
