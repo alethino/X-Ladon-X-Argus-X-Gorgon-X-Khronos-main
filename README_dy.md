@@ -1,6 +1,5 @@
 抖音算法 | [Tiktok Algorithm](README_tt.md)
 
-
 # X-Ladon, X-Argus, X-Gorgon, X-Khronos
 抖音、Tiktok算法，X-Argus, X-Ladon, X-Gorgon, X-Khronos算法，设备注册算法  
 
