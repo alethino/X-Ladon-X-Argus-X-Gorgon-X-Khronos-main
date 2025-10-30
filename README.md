@@ -6,6 +6,7 @@ Tiktok Algorithm | [抖音算法](README_dy.md)
 douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register algorithm
 
 
+
 ### Device Register
 <img src="./data/tt_reg.png">
 
