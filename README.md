@@ -6,6 +6,7 @@ douyin and tiktok X-Argus X-Ladon X-Gorgon X-Khronos algorithm, device register 
 
 
 ### Device Register
+
 <img src="./data/tt_reg.png">
 
 ```json
